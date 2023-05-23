@@ -1,4 +1,4 @@
-PRUEBAS A REALIZAR:
+PRUEBAS A REALIZAR (ver colección de postman "pre-entrega1.postman_collection.json")
 
 PRODUCTS:
 
@@ -98,7 +98,7 @@ Devolverá Status 204. Se podrá corroborar su modificación en el archivo "prod
 
 CARTS:
 
-5. Método GET/:pid
+5. Método GET/:cid
 
 
 5.1. http://localhost:8080/api/carts/1
